@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "apple",
-      "categories": "fruits",
+      "category": "fruits",
       "price": 40,
       "available": "yes",
       "quality": "good",
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "banana",
-      "categories": "fruits",
+      "category": "fruits",
       "price": 40,
       "available": "yes",
       "quality": "good",
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "orange",
-      "categories": "fruits",
+      "category": "fruits",
       "price": 40,
       "available": "yes",
       "quality": "good",
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "strawberriy",
-      "categories": "fruits",
+      "category": "fruits",
       "price": 40,
       "available": "yes",
       "quality": "good",
@@ -38,7 +38,7 @@
     {
       "id": 5,
       "name": "mangoe",
-      "categories": "fruits",
+      "category": "fruits",
       "price": 40,
       "available": "yes",
       "quality": "good",
@@ -47,7 +47,7 @@
     {
       "id": 6,
       "name": "blueberry",
-      "categories": "fruits",
+      "category": "fruits",
       "price": 40,
       "available": "yes",
       "quality": "good",
